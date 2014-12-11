@@ -27,6 +27,7 @@ Additionally:
 - You need to be able to market and sell your product like a pro. Rehearse your dev talks, your sales pitches and your marketing monologue.
 - Network like you don't have a job. Always be on the look for interesting people, and if you can help connecting two people do not hesitate to do so - they will remember it and you'll have earned cool points.
 - Always be helpful, no matter what it is, if you know it won't take much of your time, just help out. Even if it's 2am. But make sure to help with a context, don't get caught up in other people's issues.
+- Be a project manager, be able to manage people, especially if you're going to run events(meetups, conferences, hackathons) where you'll be organising and being helped to get all the logistics for the event going.
 
 #Dangers
 
