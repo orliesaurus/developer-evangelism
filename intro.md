@@ -1,3 +1,4 @@
+#Ahoy!
 If you're reading this page you know what developer evangelism is. However if you're reading this series you might wonder how to improve yourself and become a better Developer Evangelist. What can I do to be a better developer evangelist? What are other people doing in the developer evangelism space?
 
 There is no Silver Bullet I am simply giving you a series of recipes that worked for me and for some of my peers in this space.
@@ -27,3 +28,13 @@ Additionally:
 - Network like you don't have a job. Always be on the look for interesting people, and if you can help connecting two people do not hesitate to do so - they will remember it and you'll have earned cool points.
 - Always be helpful, no matter what it is, if you know it won't take much of your time, just help out. Even if it's 2am. But make sure to help with a context, don't get caught up in other people's issues.
 
+#Dangers
+
+I don't believe you can an active developer evangelist for a long period of your life. Most people only last a couple of years, others are in for the long run because they've found a way to fit everything perfectly together.
+
+An evangelist role will eventually burn you out, you will need to take some time off and spend it doing what you love to with who you love to recuperate.
+
+To be a successful evangelist you also need to have full management cooperation. It is a horrible feeling knowing that someone in the chain of power will try and put roadblocks on your path to succesful evangelism.
+
+Being the first evangelist in a team will often prove to be a hard challenge. Usually you'll find it less easy to get started because you'll have to motivate a lot of your expenditures and actions. 
+But nothing nice comes without a little struggle!
