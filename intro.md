@@ -17,7 +17,8 @@ Here's a list:
 - Be constantly positive (even when you're having a bad day)! There are a number of articles showing how positive people end up (statistically) being more successful than negative ones.
 - Able to educate, inspire and motivate people.
 - Be patient. Always.
-- Be a jack of all trades when it comes to development (full-stack). You will also be the face of your engineering team, being able to solve pains from (potential) customers all the time and they might be using a different stack from yorus.
+- Be a jack of all trades when it comes to development (full-stack). You will also be the face of your engineering team, being able to solve pains from (potential) customers all the time and they might be using a different stack from yours.
+- Be recognized as "that XYZ guy" from "yourcompanyname" that has done/been doing "somethingawesome"
 
 As a developer evangelist you get to wear a lot of different hats, speak in front of crowds with different backgrounds, and manage your day-to-day depending on what you'll be doing or going to next.
 Additionally:
