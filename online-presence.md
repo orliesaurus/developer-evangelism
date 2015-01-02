@@ -1,6 +1,10 @@
 #Doing the online thing
 It’s really hard and costly to acquire new customers, to build communities and a following. Different sources report that the cost of acquiring a new customer is up to 5x higher than retaining an existing customer. Always keep that in mind when you're tweeting out to reach someone you should focus on keeping your customers as happy as possible!
 
+Through social media and online presence you can manage to build a team of followers that will support your cause and product if you manage to reach out to them and solve some of their problems.
+Most of the times people will come and ask for help, take it and go away, but if you manage to capture their attention and "e-heart" you can have them help you fight against the big online world. How? In a way that they will tell their friends about the positive experience they've had, fighting and promoting your brand effortlessly because they really believe in you and what you do.
+As an evangelist this type of people are the most powerful weapon you can find, and online you can reach thousands if not million of potential customers and zombie promoters. Now by zombie promoters I mean that they **unconsciously** promote your brand to their entourage without being aware of it, or maybe being aware of it just a little. It is why everyone knows about that hip product at the end of the month. It probably solves a problem or gives you a performance boost  but most importantly and has captured users' hearts. And that's why they talk about it.
+
 ##Tooling and sites to use
 
 ###Tools you should always use
