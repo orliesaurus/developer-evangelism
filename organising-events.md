@@ -30,6 +30,12 @@ Using social media channels you can start promoting your event to a targeted aud
 You can also acquire promoted slots on sites like meetup and eventbrite which will further boost the visibility of your event, but this works best when you take advantage of their services. (more on this in the next paragraph)
 
 ##Tickets
+Every event should consider giving out or selling tickets. Not only you create trust but you can keep an eye on who is going to attend the event.
+
+In a perfect world attendees of your events will all be the ones you expect (devs, hackers, marketers, cto, product managers, ceo etcetc) but it is often that event-crashers will come and try to sneak out some of your delicious food and drinks. This is a real issue for event organiser that you can prevent by keeping an eye on who has signed up to attend.
+
+How to deal with people who did not acquire a ticket and still show up? 
+First of all do not panic. Did the person really just forgot to press the last confirmation button? Or is it a friend of an attendee that decided at the last minute to come? It's up to you, but usually have a strict policy on this front.
 
 ##Speakers
 
