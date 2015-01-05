@@ -16,4 +16,5 @@ There is a lot that needs to be done to run an effective event and thus I'd like
 ##WiFi
 
 ##Swag
+
 ##Extras
