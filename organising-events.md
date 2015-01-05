@@ -6,17 +6,19 @@ There is a lot that needs to be done to run an effective event and thus I'd like
 ##Venue
 Ease of access is the most important thing you should consider, when looking for a venue to host an event as it will directly affect the way people will consider attending.
 
-Every city has a scene, it's a neighbourhood where most tech companies set their offices, a bit like the financial district in SF is for financial institutions (captain obvious here) and Old Street area is in London for tech companies. If the venue is far from the main scene it means that people cannot just pop-over after work, but instead they'll have to travel all the way. Adding the fact that public transport after office hours is usually swarmed and packed you might have to consider hosting the event in a location where there are a lot of transportation options available or simply is walking distance from a very large hub.
+Every city has a tech hub, a tech scene or a tech hangout area. This is a neighbourhood where most tech companies set their offices, a bit like the financial district in SF is for financial institutions (captain obvious here) and Old Street area is in London for tech companies. If the venue is far from the main scene it means that people cannot just pop-over after work, but instead they'll have to travel all the way. Adding the fact that public transport after office hours is usually swarmed and packed you might have to consider hosting the event in a location where there are a lot of transportation options available or simply is walking distance from a very large hub.
 
 Once the venue location has been isolated, and you've done your best to discuss the possible cost of renting the space, you need to consider the logistics available. This is imperative and is required. As an event organiser this is your sink or swim checklist.
+Before you book a venue always double check (and take mental notes) with the venue manager the following details:
 
-- Stage
-- Lights
-- Seating
-- Audio/Video interfaces
-- Networking area
-- Phone reception-WiFi
-- Facilities:
+- Stage: Is the stage large or small? Do you have a clicker to change the slides? Does it come with a standing table and a microphone or will you have to stack things up and shout? Will you be able to introduce your event, speakers and eventual sponsors in a way that everyone can hear you effectively?
+- Lights: How powerful is the light? Can its intensity be regulated? Will the attendees fall asleep if I try to create an "ambience"? Are there any sources of natural light or is it all artificial?
+- Seating: How comfortable are the seats? Too comfortable means people will just drift away. Stools means people will have a bad posture and back pain by the end of the day. Do you see any bean bags or sofas? Do you want any bean bags? Is it that kind of event? If the seats are portable: How will you place the seats in a way that the middle seats will get used, most of the times people sit at the edges of the rows.
+- Audio/Video interfaces: Can you display things on a whiteboard through a projector (or similar)? Take the time to walk at the end of the room and with the lights turned on check how visible the display looks, with different colors. Is the video clear and can you hear the person speaking into a microphone on stage? Are they speaking in icecone microphones, fixed ones or do you have something else available?
+- Networking area: People will want to chill out before the event and after the conclusion and talk with other people; also required if you're catering food for the event. Make sure you have enough space for people to walk around and place standing tables or better in this area.
+- Phone reception-WiFi: How good is the signal inside the venue, is the wi-fi powerful enough and has it been tested with the numbers of attendees you are expecting? Will it handle all the connections or will it crash and what about interference?
+- Facilities: Cloakroom, Toilets, Security, Electric plugs?
+- Health and Safety: Exit routes in case of emergencies, phone numbers for getting in touch with the venue management, ensure cables are shielded on the floor and around the room so no one trips over them. 
 
 ##Communication
 
