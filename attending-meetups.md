@@ -6,6 +6,7 @@ It is important to speak to the right crowd. If you start fresh in a new city or
 Ultimately the right crowd of people is, everyone. But as a dev-evangelist you need to start small and then reach out to wider crowds.
 How to find out who the right crowd is? Well that's not an easy question, surely it is people who can integrate your product, if you have a wrapper written in Python, you can try and attend the Python meetup and see what people have to say - if you're developing a tool for online retail shopping and you're evangelising it, maybe the Shopify or Magento meetups are a good start.
 There are two ways of doing this really, one I call it the brute-force method and one is the scientific method.
+Both require that you're aware of sites like meetup.com, lanyrd.com and eventbrite.com - if not, go check them out!
 ###Brute-Force
 The first method requires you to book 2 or 3 weeks of your evenings in a row as you will be attending as many meetups as possible. 
 * Compile a list of meetups that are available in your area and that are *active*.
