@@ -10,13 +10,13 @@ Every city has a scene, it's a neighbourhood where most tech companies set their
 
 Once the venue location has been isolated, and you've done your best to discuss the possible cost of renting the space, you need to consider the logistics available. This is imperative and is required. As an event organiser this is your sink or swim checklist.
 
-[ ] Stage
-[ ] Lights
-[ ] Seating
-[ ] Audio/Video interfaces
-[ ] Networking area
-[ ] Phone reception-WiFi
-[ ] Facilities:
+[] Stage
+[] Lights
+[] Seating
+[] Audio/Video interfaces
+[] Networking area
+[] Phone reception-WiFi
+[] Facilities:
 
 ##Communication
 
