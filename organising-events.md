@@ -21,6 +21,13 @@ Before you book a venue always double check (and take mental notes) with the ven
 - Health and Safety: Exit routes in case of emergencies, phone numbers for getting in touch with the venue management, ensure cables are shielded on the floor and around the room so no one trips over them. 
 
 ##Communication
+For larger events you want to create an webpage with all the information relevant to what and where its going to happen, who will attend with short bios for each speaker. You can provide an agenda, with details of the starting and ending time for each speaker and breaks. Furthermore a how to get there with a well detailed paragraph on the different types of transport link that can be used is very important to have. Don't forget to clearly define the address and contact details for the person in charge of the event (that should be you).
+
+An extremely powerful way to engage people is through email and newsletters. You don't need to spam your users but you can cleverly create a built up atmosphere when you email once every few months prior to your events or just a few weeks/days before your event reminding everyone who has marked themselves as attendees (or purchased a ticket) that the event is imminent and you can start revealing surprises(such as a really good topic or speaker) and event-related facts.
+
+Using social media channels you can start promoting your event to a targeted audience, don't be ashamed to ask people with a lot of followers to retweet your event if they're planning on attending as the power of word-of-mouth is really what makes or breaks some of these events.
+
+You can also acquire promoted slots on sites like meetup and eventbrite which will further boost the visibility of your event, but this works best when you take advantage of their services. (more on this in the next paragraph)
 
 ##Tickets
 
