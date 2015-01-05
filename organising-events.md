@@ -23,7 +23,7 @@ Before you book a venue always double check (and take mental notes) with the ven
 ##Communication
 For larger events you want to create an webpage with all the information relevant to what and where its going to happen, who will attend with short bios for each speaker. You can provide an agenda, with details of the starting and ending time for each speaker and breaks. Furthermore a how to get there with a well detailed paragraph on the different types of transport link that can be used is very important to have. Don't forget to clearly define the address and contact details for the person in charge of the event (that should be you).
 
-An extremely powerful way to engage people is through email and newsletters. You don't need to spam your users but you can cleverly create a built up atmosphere when you email once every few months prior to your events or just a few weeks/days before your event reminding everyone who has marked themselves as attendees (or purchased a ticket) that the event is imminent and you can start revealing surprises(such as a really good topic or speaker) and event-related facts.
+An extremely powerful way to engage people is through emails and newsletters. You don't need to spam your users but you can cleverly create a built up atmosphere when you email once every few months prior to your events or just a few weeks/days before your event reminding everyone who has marked themselves as attendees (or purchased a ticket) that the event is imminent and you can start revealing surprises(such as a really good topic or speaker) and event-related facts.
 
 Using social media channels you can start promoting your event to a targeted audience, don't be ashamed to ask people with a lot of followers to retweet your event if they're planning on attending as the power of word-of-mouth is really what makes or breaks some of these events.
 
@@ -32,12 +32,14 @@ You can also acquire promoted slots on sites like meetup and eventbrite which wi
 ##Tickets
 Every event should consider giving out or selling tickets. Not only you create trust but you can keep an eye on who is going to attend the event.
 
-In a perfect world attendees of your events will all be the ones you expect (devs, hackers, marketers, cto, product managers, ceo etcetc) but it is often that event-crashers will come and try to sneak out some of your delicious food and drinks. This is a real issue for event organiser that you can prevent by keeping an eye on who has signed up to attend.
+In a perfect world attendees of your events will be the ones you expect (to me that's something like a crowd of devs, generalist, hackers, marketers, cto, product managers, ceo etcetc) but it is often that event-crashers will come and try to sneak out some of your delicious food and drinks. This is a real issue for event organisers. The only way you can prevent this by keeping an eye on who has signed up to attend.
 
 How to deal with people who did not acquire a ticket and still show up? 
 First of all do not panic. Did the person really just forgot to press the last confirmation button? Or is it a friend of an attendee that decided at the last minute to come? It's up to you, but usually have a strict policy on this front.
 
 ##Speakers
+Finding speakers and convincing speakers to come talk to one of your events is a really tough job. There are no shortcuts unless you're super well connected (as you should be) in your scene. There are however only this many friends you can invite while the friends of friends network is limitless.
+A good practice is to have new and old faces, oldschool and beginners, speakers at the same time. It's important to give everyone (who deserves it) a chance.
 
 ##Food breaks
 
