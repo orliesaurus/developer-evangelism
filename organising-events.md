@@ -41,7 +41,8 @@ Another extremely good practice is to announce the day which your tickets will g
 - Regular tickets (batch #1)
 - Regular tickets (batch #2)
 ..etc
-Optionally you have have "early birds ticket" and "last minute ticket"
+
+Optionally you should considering having "early birds ticket" and "last minute ticket"
 
 ##Speakers and Attendees
 Finding speakers and convincing speakers to come join you to present is a really tough job. There are no shortcuts, you need to be well connected with other developers and speakers from your area. Don't forget to ask your closest friends to ask their own friends network. The scale is limitless.
