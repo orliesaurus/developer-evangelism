@@ -37,9 +37,16 @@ In a perfect world attendees of your events will be the ones you expect (to me t
 How to deal with people who did not acquire a ticket and still show up? 
 First of all do not panic. Did the person really just forgot to press the last confirmation button? Or is it a friend of an attendee that decided at the last minute to come? It's up to you, but usually have a strict policy on this front.
 
-##Speakers
-Finding speakers and convincing speakers to come talk to one of your events is a really tough job. There are no shortcuts unless you're super well connected (as you should be) in your scene. There are however only this many friends you can invite while the friends of friends network is limitless.
-A good practice is to have new and old faces, oldschool and beginners, speakers at the same time. It's important to give everyone (who deserves it) a chance.
+Another extremely good practice is to announce the day which your tickets will go out on sale in advance. Then schedule releasing tickets in batches
+- Regular tickets (batch #1)
+- Regular tickets (batch #2)
+..etc
+Optionally you have have "early birds ticket" and "last minute ticket"
+
+##Speakers and Attendees
+Finding speakers and convincing speakers to come join you to present is a really tough job. There are no shortcuts, you need to be well connected with other developers and speakers from your area. Don't forget to ask your closest friends to ask their own friends network. The scale is limitless.
+Another good practice to follow during conferences, meetups and other events is to mix up speakers: new and old faces, oldschool and beginners. It's important to give everyone (who deserves it) a chance.
+Don't forget that we're all equal and you should balance the amount of men and women attending and presenting at the event. You don't want to have a minority feel uncomfortable either.
 
 ##Food breaks
 
