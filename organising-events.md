@@ -47,9 +47,14 @@ Optionally you should considering having "early birds ticket" and "last minute t
 ##Speakers and Attendees
 Finding speakers and convincing speakers to come join you to present is a really tough job. There are no shortcuts, you need to be well connected with other developers and speakers from your area. Don't forget to ask your closest friends to ask their own friends network. The scale is limitless.
 Another good practice to follow during conferences, meetups and other events is to mix up speakers: new and old faces, oldschool and beginners. It's important to give everyone (who deserves it) a chance.
-Don't forget that we're all equal and you should balance the amount of men and women attending and presenting at the event. You don't want to have a minority feel uncomfortable either.
+Don't forget that we're all equal and you should balance the amount of men and women attending and presenting at the event. You don't want to have a minority feel uncomfortable because they're under-represented.
 
 ##Food breaks
+Whether you will provide food to attendees is decided based on the type of event (and its lenght) being hosted. If you can't directly provide refreshments, you should point attendees to nearby shops that can provide these services.
+
+An active part of any catered event is surely the networking that comes with it, the food/drink breaks are hreat times to facilitate conversation amongst attendees.
+Furthermore if you're going to provide refreshments it is important to always have both cold and warm drinks (water, fizzy drinks, coffee, tea are always a good base to start with). Everyone has different tastes and you cannot aim to cover every single option. Conventional drinks are therefore the way to go!
+If you're planning on providing meals on top of refreshments, you should consider ask attendees of their dietiary needs. It is not uncommong to have attendees who are allergic or intolerant to one or another food.
 
 ##WiFi
 
