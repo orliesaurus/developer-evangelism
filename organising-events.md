@@ -54,7 +54,7 @@ Whether you will provide food to attendees is decided based on the type of event
 
 An active part of any catered event is surely the networking that comes with it, the food/drink breaks are hreat times to facilitate conversation amongst attendees.
 Furthermore if you're going to provide refreshments it is important to always have both cold and warm drinks (water, fizzy drinks, coffee, tea are always a good base to start with). Everyone has different tastes and you cannot aim to cover every single option. Conventional drinks are therefore the way to go!
-If you're planning on providing meals on top of refreshments, you should consider ask attendees of their dietiary needs. It is not uncommong to have attendees who are allergic or intolerant to one or another food.
+If you're planning on providing meals on top of refreshments, you should consider ask attendees of their dietiary needs. It is not uncommong to have attendees who are allergic to some type of food or element.
 
 ##WiFi
 
