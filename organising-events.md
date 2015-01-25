@@ -58,6 +58,12 @@ If you're planning on providing meals on top of refreshments, you should conside
 
 ##WiFi
 
+The number of events where the WiFi is quite terrible is astonishing. Usually the hotspots saturate quickly, considering everyone attending has possibly at least one device connected. Depending on events though, this number skyrockets, tablets, laptops and other small devices will try to connect and be assigned an IP.
+So running out of IPs to assign to devices isn't that uncommon as each router can only support a certain amount. It is good practice to ask the venue manager about this before picking a venue.
+Another thing that might happen is known as interference . The are a few types of interference, however the most known ones are co-channel and adjacent channel interference.  Luckily, two access points configured on the same channel will share the full capacity of the channel. Interference can also be caused by bluetooth and microwaves, seriously, although I do not think that will ever be a problem. 
+
+
 ##Swag
 
 ##Extras
+##Intro and Closing Remarks
