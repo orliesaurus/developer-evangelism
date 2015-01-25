@@ -44,6 +44,8 @@ Another extremely good practice is to announce the day which your tickets will g
 
 Optionally you should considering having "early birds ticket" and "last minute ticket"
 
+How to distribute tickets? Well, eventbrite.com is a great start, so are meetup.com and ti.to
+
 ##Speakers and Attendees
 Finding speakers and convincing speakers to come join you to present is a really tough job. There are no shortcuts, you need to be well connected with other developers and speakers from your area. Don't forget to ask your closest friends to ask their own friends network. The scale is limitless.
 Another good practice to follow during conferences, meetups and other events is to mix up speakers: new and old faces, oldschool and beginners. It's important to give everyone (who deserves it) a chance.
@@ -60,10 +62,14 @@ If you're planning on providing meals on top of refreshments, you should conside
 
 The number of events where the WiFi is quite terrible is astonishing. Usually the hotspots saturate quickly, considering everyone attending has possibly at least one device connected. Depending on events though, this number skyrockets, tablets, laptops and other small devices will try to connect and be assigned an IP.
 So running out of IPs to assign to devices isn't that uncommon as each router can only support a certain amount. It is good practice to ask the venue manager about this before picking a venue.
-Another thing that might happen is known as interference . The are a few types of interference, however the most known ones are co-channel and adjacent channel interference.  Luckily, two access points configured on the same channel will share the full capacity of the channel. Interference can also be caused by bluetooth and microwaves, seriously, although I do not think that will ever be a problem. 
+Another thing that might happen is known as interference . The are a few types of interference, however the most known ones are co-channel and adjacent channel interference.  Luckily, two access points configured on the same channel will share the full capacity of that channel. Interference can also be caused by bluetooth and microwaves, seriously, although I do not think that will ever be a problem...
+Interference can be a pain and thefore make sure that there are enough **low intensity** access points, spread out throughout the venue next to comfy seats!
+Make sure to advertise the WiFi password (make it something easy to remember while you're at it,  and make sure you always set one. Ensure you are using WPA2-PSK, the wireless access point uses the common passphrase to generate unique encryption keys for each wireless client. Meaning that even if users aren't using HTTPS enabled webpages their traffic is still protected with WPA2.[source: https://security.stackexchange.com/questions/68748/free-hotspot-open-wifi-vs-wpa2-wifi-with-known-password]) in places where everyone can see, you don't want to have attendees ask organizers about the password all the time.
+Finally ensure you cap your internet speed per client to an acceptable yet non-disruptive. You can also consider blocking p2p packets, if you're really conscious.
 
 
-##Swag
+##Gifts/Freebies/Swag
+When organizing events you might want to distribute little freebies,
 
 ##Extras
 ##Intro and Closing Remarks
