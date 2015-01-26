@@ -64,7 +64,7 @@ The number of events where the WiFi is quite terrible is astonishing. Usually th
 So running out of IPs to assign to devices isn't that uncommon as each router can only support a certain amount. It is good practice to ask the venue manager about this before picking a venue.
 Another thing that might happen is known as interference . The are a few types of interference, however the most known ones are co-channel and adjacent channel interference.  Luckily, two access points configured on the same channel will share the full capacity of that channel. Interference can also be caused by bluetooth and microwaves, seriously, although I do not think that will ever be a problem...
 Interference can be a pain and thefore make sure that there are enough **low intensity** access points, spread out throughout the venue next to comfy seats!
-Make sure to advertise the WiFi password (make it something easy to remember while you're at it,  and make sure you always set one. Ensure you are using WPA2-PSK, the wireless access point uses the common passphrase to generate unique encryption keys for each wireless client. Meaning that even if users aren't using HTTPS enabled webpages their traffic is still protected with WPA2.[source: https://security.stackexchange.com/questions/68748/free-hotspot-open-wifi-vs-wpa2-wifi-with-known-password]) in places where everyone can see, you don't want to have attendees ask organizers about the password all the time.
+Make sure to advertise the WiFi password (make it something easy to remember while you're at it,  and make sure you always set one. Ensure you are using WPA2-PSK, the wireless access point uses the common passphrase to generate unique encryption keys for each wireless client. Meaning that even if users aren't using HTTPS enabled webpages their traffic is still protected with WPA2.[source]( https://security.stackexchange.com/questions/68748/free-hotspot-open-wifi-vs-wpa2-wifi-with-known-password]) in places where everyone can see, you don't want to have attendees ask organizers about the password all the time.
 Finally ensure you cap your internet speed per client to an acceptable yet non-disruptive. You can also consider blocking p2p packets, if you're really conscious.
 
 
@@ -83,8 +83,9 @@ Some more examples:
 * Hats, Stickers, Socks and Umbrellas
 
 ##Extras
-
+[Conference code of conduct](http://confcodeofconduct.com/) is a very detailed and easy to read text, it's self-explanatory and you should make sure you mention it somewhere before the registration sign-up. Ideally you want point attendees to the website linked above so they are aware of how they are expecteed to behave on the day. By registering and attending your event they accept the code of conduct.
 
 ##Intro and Closing Remarks
-
+When organising an event, it's important to be ready to talk in front of your audience. Usually you'll want to share some information at the start of the conference, thank attendees and eventual sponsors, announce the layout of the day, provide information about the venue and introduce each speaker.
+In the same way, closing remarks are important as you will be thanking attendees and speakers for coming and making the event such an incredible day, explaining what happens next, show people the after-party and so on.
 
