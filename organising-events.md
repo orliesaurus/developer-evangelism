@@ -69,7 +69,9 @@ Finally ensure you cap your internet speed per client to an acceptable yet non-d
 
 
 ##Gifts/Freebies/Swag
-When organizing events you might want to distribute little freebies,
+When organizing events you might want to distribute little freebies, everyone likes to go home with a little souvenir from the event. Whne picking the right freebie to give out as an organizer you want to give out something that the attendee will use somewhat regularly and which will remind him of the great time had at the event. For this reason, most events give out tshirts with their logo or name printed on the front.
+If you're going to pick to give out a freebie you should make sure that the quality of it is good or better. It is really annoying to receive a gift which breaks after few cycles of usage (or in the tshirt case, few washing machine cycles)
+
 
 ##Extras
 ##Intro and Closing Remarks
