@@ -70,8 +70,21 @@ Finally ensure you cap your internet speed per client to an acceptable yet non-d
 
 ##Gifts/Freebies/Swag
 When organizing events you might want to distribute little freebies, everyone likes to go home with a little souvenir from the event. Whne picking the right freebie to give out as an organizer you want to give out something that the attendee will use somewhat regularly and which will remind him of the great time had at the event. For this reason, most events give out tshirts with their logo or name printed on the front.
-If you're going to pick to give out a freebie you should make sure that the quality of it is good or better. It is really annoying to receive a gift which breaks after few cycles of usage (or in the tshirt case, few washing machine cycles)
+If you're going to pick to give out a freebie you should make sure that the quality of it is good or better. It is really annoying to receive a gift which breaks after few cycles of usage (or in the tshirt case, few washing machine cycles).
 
+The second most important thing about freebies is the fact that you need to pick something that others, outside of the attendee will be able to see. Promoting indirectly the brand is a great way to market your event further through participants. 
+On this note it's important to underline the importance of not being too aggressive with the marketing, although you want to do indirect marketing throught this freebies you really want to be subtle about it. This means no font-size 75 URLs! No one likes to be a living advert/banner!
+
+Some more examples:
+* Multiphone chargers: A phone charger with thunderbolt, older iphone and android - all in one.
+* Beer openers , everyone can carry one on their keyring
+* Glass/screen cleaning re-useable wipe
+* Phone charging pack : it looks like a USB stick from the early 2000s but it is a reuseable phone charger which can revive a phone from 0 to 100% battery
+* Hats, Stickers, Socks and Umbrellas
 
 ##Extras
+
+
 ##Intro and Closing Remarks
+
+
