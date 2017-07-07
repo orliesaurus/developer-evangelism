@@ -1,9 +1,9 @@
-#Organising Events for developers
+# Organising Events for developers
 
 As part of the role, as a great community facilitator like yourself, you're going to be running events for the crowd of developers around you.
 There is a lot that needs to be done to run an effective event and thus I'd like to talk a bit more about, how developers like their events and what they expect you to deliver.
 
-##Venue
+## Venue
 Ease of access is the most important thing you should consider, when looking for a venue to host an event as it will directly affect the way people will consider attending.
 
 Every city has a tech hub, a tech scene or a tech hangout area. This is a neighbourhood where most tech companies set their offices, a bit like the financial district in SF is for financial institutions (captain obvious here) and Old Street area is in London for tech companies. If the venue is far from the main scene it means that people cannot just pop-over after work, but instead they'll have to travel all the way. Adding the fact that public transport after office hours is usually swarmed and packed you might have to consider hosting the event in a location where there are a lot of transportation options available or simply is walking distance from a very large hub.
@@ -20,7 +20,7 @@ Before you book a venue always double check (and take mental notes) with the ven
 - Facilities: Cloakroom, Toilets, Security, Electric plugs?
 - Health and Safety: Exit routes in case of emergencies, phone numbers for getting in touch with the venue management, ensure cables are shielded on the floor and around the room so no one trips over them. 
 
-##Communication
+## Communication
 For larger events you want to create an webpage with all the information relevant to what and where its going to happen, who will attend with short bios for each speaker. You can provide an agenda, with details of the starting and ending time for each speaker and breaks. Furthermore a how to get there with a well detailed paragraph on the different types of transport link that can be used is very important to have. Don't forget to clearly define the address and contact details for the person in charge of the event (that should be you).
 
 An extremely powerful way to engage people is through emails and newsletters. You don't need to spam your users but you can cleverly create a built up atmosphere when you email once every few months prior to your events or just a few weeks/days before your event reminding everyone who has marked themselves as attendees (or purchased a ticket) that the event is imminent and you can start revealing surprises(such as a really good topic or speaker) and event-related facts.
@@ -29,7 +29,7 @@ Using social media channels you can start promoting your event to a targeted aud
 
 You can also acquire promoted slots on sites like meetup and eventbrite which will further boost the visibility of your event, but this works best when you take advantage of their services. (more on this in the next paragraph)
 
-##Tickets
+## Tickets
 Every event should consider giving out or selling tickets. Not only you create trust but you can keep an eye on who is going to attend the event.
 
 In a perfect world attendees of your events will be the ones you expect (to me that's something like a crowd of devs, generalist, hackers, marketers, cto, product managers, ceo etcetc) but it is often that event-crashers will come and try to sneak out some of your delicious food and drinks. This is a real issue for event organisers. The only way you can prevent this by keeping an eye on who has signed up to attend.
@@ -46,19 +46,19 @@ Optionally you should considering having "early birds ticket" and "last minute t
 
 How to distribute tickets? Well, eventbrite.com is a great start, so are meetup.com and ti.to
 
-##Speakers and Attendees
+## Speakers and Attendees
 Finding speakers and convincing speakers to come join you to present is a really tough job. There are no shortcuts, you need to be well connected with other developers and speakers from your area. Don't forget to ask your closest friends to ask their own friends network. The scale is limitless.
 Another good practice to follow during conferences, meetups and other events is to mix up speakers: new and old faces, oldschool and beginners. It's important to give everyone (who deserves it) a chance.
 Don't forget that we're all equal and you should balance the amount of men and women attending and presenting at the event. You don't want to have a minority feel uncomfortable because they're under-represented.
 
-##Food breaks
+## Food breaks
 Whether you will provide food to attendees is decided based on the type of event (and its lenght) being hosted. If you can't directly provide refreshments, you should point attendees to nearby shops that can provide these services.
 
 An active part of any catered event is surely the networking that comes with it, the food/drink breaks are hreat times to facilitate conversation amongst attendees.
 Furthermore if you're going to provide refreshments it is important to always have both cold and warm drinks (water, fizzy drinks, coffee, tea are always a good base to start with). Everyone has different tastes and you cannot aim to cover every single option. Conventional drinks are therefore the way to go!
 If you're planning on providing meals on top of refreshments, you should consider ask attendees of their dietiary needs. It is not uncommong to have attendees who are allergic to some type of food or element.
 
-##WiFi
+## WiFi
 
 The number of events where the WiFi is quite terrible is astonishing. Usually the hotspots saturate quickly, considering everyone attending has possibly at least one device connected. Depending on events though, this number skyrockets, tablets, laptops and other small devices will try to connect and be assigned an IP.
 So running out of IPs to assign to devices isn't that uncommon as each router can only support a certain amount. It is good practice to ask the venue manager about this before picking a venue.
@@ -68,7 +68,7 @@ Make sure to advertise the WiFi password (make it something easy to remember whi
 Finally ensure you cap your internet speed per client to an acceptable yet non-disruptive. You can also consider blocking p2p packets, if you're really conscious.
 
 
-##Gifts/Freebies/Swag
+## Gifts/Freebies/Swag
 When organizing events you might want to distribute little freebies, everyone likes to go home with a little souvenir from the event. Whne picking the right freebie to give out as an organizer you want to give out something that the attendee will use somewhat regularly and which will remind him of the great time had at the event. For this reason, most events give out tshirts with their logo or name printed on the front.
 If you're going to pick to give out a freebie you should make sure that the quality of it is good or better. It is really annoying to receive a gift which breaks after few cycles of usage (or in the tshirt case, few washing machine cycles).
 
@@ -82,10 +82,10 @@ Some more examples:
 * Phone charging pack : it looks like a USB stick from the early 2000s but it is a reuseable phone charger which can revive a phone from 0 to 100% battery
 * Hats, Stickers, Socks and Umbrellas
 
-##Extras
+## Extras
 [Conference code of conduct](http://confcodeofconduct.com/) is a very detailed and easy to read text, it's self-explanatory and you should make sure you mention it somewhere before the registration sign-up. Ideally you want point attendees to the website linked above so they are aware of how they are expecteed to behave on the day. By registering and attending your event they accept the code of conduct.
 
-##Intro and Closing Remarks
+## Intro and Closing Remarks
 When organising an event, it's important to be ready to talk in front of your audience. Usually you'll want to share some information at the start of the conference, thank attendees and eventual sponsors, announce the layout of the day, provide information about the venue and introduce each speaker.
 In the same way, closing remarks are important as you will be thanking attendees and speakers for coming and making the event such an incredible day, explaining what happens next, show people the after-party and so on.
 
